@@ -1,0 +1,184 @@
+{
+  "data": {
+    "name": "Alexander Sumarokov",
+    "jobTitle": "Front-End Engineer",
+    "contacts": [
+      {
+        "type": "phone",
+        "value": "+38(096)898-18-90"
+      },
+      {
+        "type": "email",
+        "value": "alexander.sumarokow@gmail.com"
+      },
+      {
+        "type": "telegram",
+        "value": "@sumasamurai",
+        "url": "https://t.me/sumasamurai"
+      },
+      {
+        "type": "linkedin",
+        "value": "LinkedIn",
+        "url": "https://linkedin.com/in/oleksandr-sumarokov"
+      }
+    ],
+    "experiences": {
+      "title": "Experiences",
+      "data": [
+        {
+          "role": "Front-End Engineer",
+          "entity": "Blockchain development",
+          "date": "Oct 2022 – Present (1 year 9 months)",
+          "location": "Remote",
+          "details": "Developing and deploying smart contracts with leading blockchain wallets. Utilizing advanced tools and libraries for Ethereum and other blockchain protocols. Creating intuitive user interfaces for displaying blockchain data. Gained extensive experience working on diverse projects, including Seed Platforms, Gaming Platforms, Swap Functionality, WarpCast Frame Creation, as well as handling splitting and multi-transactions."
+        },
+        {
+          "role": "Front-End Engineer",
+          "entity": "TrendSpider LLC",
+          "date": "Jul 2021 – May 2022 (11 months)",
+          "location": "Remote",
+          "details": "Refactoring, maintaining, creating widgets and building data models and business logic. Writing code that is as simple as possible for understanding. Collaborating with a team of world-class engineers on cutting-edge technologies. Understanding and adhering to the principle of 'least astonishment' development."
+        },
+        {
+          "role": "Front-End Engineer",
+          "entity": "Web Vision 360",
+          "date": "Jun 2019 – Jul 2021 (2 years 2 months)",
+          "location": "Ukraine, Dnipro",
+          "details": "Developing fast, modular web applications and contributing to documentation efforts. Utilizing frontend frameworks and libraries, such as React. Collaborating effectively with backend developers, project managers, and team members. Designing and optimizing web interfaces for diverse devices and screen sizes."
+        },
+        {
+          "role": "Front-End Developer",
+          "entity": "Level Up",
+          "date": "Apr 2018 – Mar 2019 (1 year)",
+          "location": "Ukraine, Dnipro",
+          "details": "Translating design mockups and wireframes into functional web pages using HTML, CSS, and JavaScript. Optimizing for various screen sizes to enhance accessibility across devices and improving web performance."
+        },
+        {
+          "role": "Full-Stack Developer",
+          "entity": "Goryacho Agency",
+          "date": "Jul 2017 – Apr 2018 (10 months)",
+          "location": "Remote",
+          "details": "Developed websites from scratch using HTML, CSS, PHP, and CMS platforms. Collaborated with hosting providers for server management and ensured up-to-date content and optimal loading date."
+        },
+        {
+          "role": "Sales Manager & Web Developer",
+          "entity": "2GIS",
+          "date": "Oct 2014 – Jul 2017 (2 years 10 months)",
+          "location": "Ukraine, Dnipro",
+          "details": "Created commercial proposals, sold contextual advertising within 2GIS products, and contributed to CMS-based website development."
+        },
+        {
+          "role": "Product Manager",
+          "entity": "PlaceView",
+          "date": "Jan 2014 – Jul 2014 (7 months)",
+          "location": "Ukraine, Dnipro",
+          "details": "Market research and trend analysis. Marketing and product promotion strategy development. Monitoring product performance metrics. Project planning and execution."
+        },
+        {
+          "role": "Sales Manager",
+          "entity": "KTTSoft",
+          "date": "Mar 2013 – Nov 2013 (9 months)",
+          "location": "Ukraine, Dnipro",
+          "details": "Prospected clients via the E-Commerce aggregator portal and cultivated business relationships through phone and in-person interactions. Studied SPIN techniques and popular content management systems."
+        }
+      ]
+    },
+    "skillsAndTechnologies": {
+      "title": "Skills and Technologies",
+      "data": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "Solidity",
+        "PHP",
+        "Hardhat",
+        "OpenZeppelin",
+        "Web3",
+        "RWD",
+        "Next.js",
+        "GraphQL",
+        "HTML5",
+        "CSS3",
+        "SASS/SCSS",
+        "UI Frameworks",
+        "UA/UX",
+        "MySQL",
+        "MongoDB",
+        "JSON",
+        "Web API",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "Webpack",
+        "SSR",
+        "Jest",
+        "Git",
+        "Heroku",
+        "Firebase"
+      ]
+    },
+    "principlesAndPractices": {
+      "title": "Principles and Practices",
+      "data": [
+        "Design Patterns",
+        "Data Structures",
+        "SOLID",
+        "DRY",
+        "KISS",
+        "SCRUM",
+        "Projective Planning",
+        "Mentoring",
+        "Business Orientation",
+        "OOP",
+        "Statistical Analytics",
+        "Automation QA",
+        "Deployment and Supporting",
+        "SEO",
+        "Performance Optimization"
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "entity": "Dnipro National University",
+      "date": "2008 - 2013",
+      "location": "Ukraine, Dnipro",
+      "degree": "Computer engineering",
+      "faculty": "Faculty of Physics, Electronics, and Computer Systems"
+    },
+    "certificates": [
+      {
+        "title": "Predictor Game",
+        "date": "October 2023",
+        "entity": "ETHGlobal",
+        "url": "ethglobal.com/showcase/predictor-imjoh"
+      },
+      {
+        "title": "Ethereum and Solidity",
+        "date": "March 2023",
+        "entity": "Udemy",
+        "url": "ude.my/UC-7fbf5947-628f-48df-9fb7-26ee61063e5d"
+      },
+      {
+        "title": "React Native",
+        "date": "June 2021",
+        "entity": "Udemy",
+        "url": "ude.my/UC-99756689-8e12-476d-bf6e-e836e032d4a4"
+      },
+      {
+        "title": "React and Typescript",
+        "date": "April 2021",
+        "entity": "Udemy",
+        "url": "ude.my/UC-28978fdc-bd77-4552-a670-36474bedcdbe"
+      },
+      {
+        "title": "GraphQL with React",
+        "date": "Oct 2020",
+        "entity": "Udemy",
+        "url": "ude.my/UC-e1c06daa-4454-4996-a8fe-26e24b1aafcb"
+      }
+    ]
+  }
+}
